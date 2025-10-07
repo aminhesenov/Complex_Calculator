@@ -1,0 +1,16 @@
+D:\C# lesson\Calculator_Complex\Calculator_Complex\bin\Debug\net8.0-windows\Calculator_Complex.exe
+D:\C# lesson\Calculator_Complex\Calculator_Complex\bin\Debug\net8.0-windows\Calculator_Complex.deps.json
+D:\C# lesson\Calculator_Complex\Calculator_Complex\bin\Debug\net8.0-windows\Calculator_Complex.runtimeconfig.json
+D:\C# lesson\Calculator_Complex\Calculator_Complex\bin\Debug\net8.0-windows\Calculator_Complex.dll
+D:\C# lesson\Calculator_Complex\Calculator_Complex\bin\Debug\net8.0-windows\Calculator_Complex.pdb
+D:\C# lesson\Calculator_Complex\Calculator_Complex\obj\Debug\net8.0-windows\Calculator_Complex.Form1.resources
+D:\C# lesson\Calculator_Complex\Calculator_Complex\obj\Debug\net8.0-windows\Calculator_Complex.csproj.GenerateResource.cache
+D:\C# lesson\Calculator_Complex\Calculator_Complex\obj\Debug\net8.0-windows\Calculator_Complex.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# lesson\Calculator_Complex\Calculator_Complex\obj\Debug\net8.0-windows\Calculator_Complex.AssemblyInfoInputs.cache
+D:\C# lesson\Calculator_Complex\Calculator_Complex\obj\Debug\net8.0-windows\Calculator_Complex.AssemblyInfo.cs
+D:\C# lesson\Calculator_Complex\Calculator_Complex\obj\Debug\net8.0-windows\Calculator_Complex.csproj.CoreCompileInputs.cache
+D:\C# lesson\Calculator_Complex\Calculator_Complex\obj\Debug\net8.0-windows\Calculator_Complex.dll
+D:\C# lesson\Calculator_Complex\Calculator_Complex\obj\Debug\net8.0-windows\refint\Calculator_Complex.dll
+D:\C# lesson\Calculator_Complex\Calculator_Complex\obj\Debug\net8.0-windows\Calculator_Complex.pdb
+D:\C# lesson\Calculator_Complex\Calculator_Complex\obj\Debug\net8.0-windows\Calculator_Complex.genruntimeconfig.cache
+D:\C# lesson\Calculator_Complex\Calculator_Complex\obj\Debug\net8.0-windows\ref\Calculator_Complex.dll
